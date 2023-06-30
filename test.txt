@@ -1,0 +1,10 @@
+.h sudonick ..h
+.sh a wannabe low level programmer ..sh
+.ul 
+.li he vims ..li
+.li he colemak dhs ..li
+.nl
+.cb 
+  print("more than that he is a good boi")
+..cb
+..ul

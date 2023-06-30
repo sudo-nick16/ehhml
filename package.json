@@ -1,0 +1,14 @@
+{
+  "name": "ehhml",
+  "version": "1.0.0",
+  "main": "dist/ehh.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "dev": "node ./dist/ehh.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.2"
+  }
+}
